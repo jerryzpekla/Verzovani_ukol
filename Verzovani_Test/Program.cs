@@ -21,8 +21,9 @@ namespace Verzovani_Test
 			}
 			Console.WriteLine(counter);
 			
-			Console.Write("tenhle vypis je zmena");
-			Console.Write("tohle je dalsi zmena");
+			Console.WriteLine("tenhle vypis je zmena");
+			Console.WriteLine("tohle je dalsi zmena");
+			Console.WriteLine("tohle je treti zmena");
 			
 			
 			Console.ReadKey(true);
