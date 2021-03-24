@@ -1,0 +1,12 @@
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.exe.config
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.exe
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.pdb
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.csprojResolveAssemblyReference.cache
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.exe
+C:\Users\jaros\Documents\SharpDevelop Projects\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.pdb
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.exe.config
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.exe
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\bin\Debug\Verzovani_Test.pdb
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.csprojResolveAssemblyReference.cache
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.exe
+C:\Users\jaros\Desktop\Verzovani_Test\Verzovani_Test\obj\Debug\Verzovani_Test.pdb
