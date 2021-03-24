@@ -25,6 +25,8 @@ namespace Verzovani_Test
 			Console.WriteLine("tohle je dalsi zmena");
 			Console.WriteLine("tohle je treti zmena");
 			
+			Console.WriteLine("dalsi zmena tentokrat uz na github");
+			
 			
 			Console.ReadKey(true);
 		}
